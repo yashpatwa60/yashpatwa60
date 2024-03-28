@@ -1,5 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Yashdeep Patwa</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=A+passionate+Full+Stack+Developer;Looking+for+SDE+Roles;Proficient+in+MERN+and+MEVN+Stack)](https://git.io/typing-svg)
+
+<img align="right" src="https://raw.githubusercontent.com/yashpatwa60/yashpatwa60/main/coder.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpatwa60&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatwa60" /> </p>
 
@@ -10,7 +14,8 @@
 - ⚡ Fun fact **I think I am funny 😂**
 
 <br>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left"> Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/yashpatwa1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpatwa1602" height="30" width="40" /></a>
 <a href="https://kaggle.com/yashpatwa60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yashpatwa60" height="30" width="40" /></a>
@@ -18,6 +23,7 @@
 <a href="https://www.leetcode.com/yashpatwa60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashpatwa60" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashpatwa1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashpatwa1602" height="30" width="40" /></a>
 </p>
+
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
