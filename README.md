@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpatwa60&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatwa60" /> </p>
 
-- 💬 Ask me about **Full Stack Development, Machine Learning and DevOps**
+- 💬 Ask me about **DSA, Full Stack Development, Machine Learning and DevOps**
 
 - 📫 How to reach me **yashpatwa1602@gmail.com**
 
